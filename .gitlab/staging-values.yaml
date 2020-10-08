@@ -1,0 +1,10 @@
+application:
+  environments:
+    - name: VUE_APP_BACKEND_URL
+      value: "https://taxione-backend-staging.tax1one.ru"
+    - name: APP_ENV
+      value: "development"
+    - name: APP_DEBUG
+      value: "true"
+    - name: NODE_ENV
+      value: "development"

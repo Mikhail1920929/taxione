@@ -1,0 +1,179 @@
+// app global css in SCSS form
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700&display=swap&subset=cyrillic');
+::-webkit-scrollbar {
+  -webkit-appearance: none;
+  width: 0px;
+}
+*{
+  outline: none;
+}
+input {outline: none;}
+input:-webkit-autofill {
+  -webkit-box-shadow: inset 0 0 0 50px #fff !important;
+  -webkit-text-fill-color: #999 !important;
+  color: #999 !important;
+}
+body{
+  font-family: 'Montserrat', sans-serif;
+  -webkit-user-select: none;
+  -webkit-touch-callout: none;
+  color: $primary;
+  background-color: #F8F8F8;
+
+}
+
+h1{
+  font-size: 36px;
+  line-height: 32px;
+}
+a{
+  text-decoration: none;
+}
+.main-btn{
+  width: 100%;
+  height: 56px;
+  background-color: #C4C4C4;
+  border-radius: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  outline: none;
+  border: none;
+  font-size: 16px;
+}
+
+.mainBtn{
+  width: 100%;
+  background: radial-gradient(100% 100% at 100% 100%, #688AF5 0%, #816FF6 100%);
+  box-shadow: 0px 4px 12px rgba(242, 93, 112, 0.2), 0px 2px 4px rgba(129, 111, 246, 0.6);
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 21px;
+  color: #fff;
+  padding: 14px 0;
+  border: 0px;
+}
+
+.backMainPage{
+  width: 36px;
+  height: 36px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  margin-left: 16px;
+  margin-top: 16px;
+  background: #f8f8f8;
+  box-shadow: inset 0px 0.5px 0px rgba(255, 255, 255, 0.8);
+  border-radius: 8px;
+  z-index: 20;
+}
+.pageTtl{
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 16px;
+  letter-spacing: -0.8px;
+  margin-left: 32px;
+  margin-bottom: 38px;
+  padding-top: 80px;
+}
+.statusTtl{
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  width: 100%;
+}
+.carName, .carModel{
+  width: 33%;
+  word-break: break-word;
+  min-height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.carColor{
+  width: 33%;
+  border-right: 1px;
+  border-right: 2px solid #E5E5EA;
+  border-left: 2px solid #E5E5EA;
+}
+.carStatusBtns{
+  width: 100%;
+  padding: 0 26px;
+}
+.carStatusBtn{
+  width: 33%;
+}
+.carStatusBtnIcon{
+  width: 36px;
+  height: 36px;
+  background: #F8F8F8;
+  box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.1), -4px -4px 10px rgba(253, 253, 253, 0.75), 2px 2px 4px rgba(0, 0, 0, 0.05), inset 6px 6px 12px #FDFDFD;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+.carStatusBtnInfo{
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 15px;
+  text-align: center;
+  color: #9B9B9B;
+}
+.popUpBg{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(25,25,25,0.5);
+  z-index: 200;
+}
+.popUpBox{
+  width: 100%;
+  margin: 0 40px;
+  background: #F8F8F8;
+  box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.12), 0px 2px 2px rgba(0, 0, 0, 0.24), inset 0px 0.5px 0px rgba(255, 255, 255, 0.8);
+  border-radius: 12px;
+}
+.popUpTtl{
+  padding: 25px 20px;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+}
+.popUpBtns{
+  border-top: 1px solid rgba(0,0,0,0.2);
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 20px;
+  text-align: center;
+  letter-spacing: -0.3125px;
+}
+.cancel, .close{
+  width: 50%;
+  padding: 12px 0;
+}
+.cancel{
+  border-right: 1px solid rgba(0,0,0,0.2);
+  color: #F25D70;
+}
+.close{
+  color: #688AF5;
+}
+.popUpInfo{
+  font-size: 13px;
+  line-height: 16px;
+  text-align: center;
+  color: #9B9B9B;
+  margin-top: 10px;
+}
+.popUpBtn{
+  color: #688AF5;
+  padding: 12px 0;
+  border-top: 1px solid rgba(0,0,0,0.2);
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 20px;
+  text-align: center;
+  letter-spacing: -0.3125px;
+}

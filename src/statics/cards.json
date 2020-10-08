@@ -1,0 +1,112 @@
+[
+  {
+    "code": "2",
+    "value": "МИР",
+    "image": "mir.svg"
+  },
+  {
+    "code": "4",
+    "value": "VISA",
+    "image": "visa.svg"
+  },
+  {
+    "code": "30",
+    "value": "Diners Club",
+    "image": "dinersClub.svg"
+  },
+  {
+    "code": "31",
+    "value": "JCB International",
+    "image": "jcb.svg"
+  },
+  {
+    "code": "34",
+    "value": "American Express",
+    "image": "americanExpress.svg"
+  },
+  {
+    "code": "35",
+    "value": "JCB International",
+    "image": "jcb.svg"
+  },
+  {
+    "code": "36",
+    "value": "Diners Club",
+    "image": "dinersClub.svg"
+  },
+  {
+    "code": "37",
+    "value": "American Express",
+    "image": "americanExpress.svg"
+  },
+  {
+    "code": "38",
+    "value": "Diners Club",
+    "image": "dinersClub.svg"
+  },
+  {
+    "code": "50",
+    "value": "Maestro",
+    "image": "maestro.svg"
+  },
+  {
+    "code": "51",
+    "value":  "MasterCard",
+    "image": "masterCard.svg"
+  },
+  {
+    "code": "52",
+    "value":  "MasterCard",
+    "image": "masterCard.svg"
+  },
+  {
+    "code": "53",
+    "value":  "MasterCard",
+    "image": "masterCard.svg"
+  },
+  {
+    "code": "54",
+    "value":  "MasterCard",
+    "image": "masterCard.svg"
+  },
+  {
+    "code": "55",
+    "value":  "MasterCard",
+    "image": "masterCard.svg"
+  },
+  {
+    "code": "56",
+    "value": "Maestro",
+    "image": "maestro.svg"
+  },
+  {
+    "code": "57",
+    "value": "Maestro",
+    "image": "maestro.svg"
+  },
+  {
+    "code": "58",
+    "value": "Maestro",
+    "image": "maestro.svg"
+  },
+  {
+    "code": "60",
+    "value": "Discover",
+    "image": "discover.svg"
+  },
+  {
+    "code": "62",
+    "value": "China UnionPay",
+    "image": "unionPay.svg"
+  },
+  {
+    "code": "63",
+    "value": "Maestro",
+    "image": "maestro.svg"
+  },
+  {
+    "code": "67",
+    "value": "Maestro",
+    "image": "maestro.svg"
+  }
+]

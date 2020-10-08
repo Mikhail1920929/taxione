@@ -1,0 +1,282 @@
+[
+  {
+    "country_code": "ARG",
+    "code": "ARS",
+    "value": "$"
+  },
+  {
+    "country_code": "AUS",
+    "code": "AUD",
+    "value": "$"
+  },
+  {
+    "country_code": "AUT",
+    "code": "EUR",
+    "value": "€"
+  },
+  {
+    "country_code": "BEL",
+    "code": "EUR",
+    "value": "€"
+  },
+  {
+    "country_code": "BHR",
+    "code": "BHD",
+    "value": ".د.ب"
+  },
+  {
+    "country_code": "BRA",
+    "code": "BRL",
+    "value": "R$"
+  },
+  {
+    "country_code": "KHM",
+    "code": "KHR",
+    "value": "៛"
+  },
+  {
+    "country_code": "CHL",
+    "code": "CLP",
+    "value": "$"
+  },
+  {
+    "country_code": "CYP",
+    "code": "EUR",
+    "value": "€"
+  },
+  {
+    "country_code": "CZE",
+    "code": "CZK",
+    "value": "Kč"
+  },
+  {
+    "country_code": "DOM",
+    "code": "DOP",
+    "value": "$"
+  },
+  {
+    "country_code": "ECU",
+    "code": "USD",
+    "value": "$"
+  },
+  {
+    "country_code": "EGY",
+    "code": "EGP",
+    "value": "£"
+  },
+  {
+    "country_code": "EST",
+    "code": "EUR",
+    "value": "€"
+  },
+  {
+    "country_code": "FIN",
+    "code": "EUR",
+    "value": "€"
+  },
+  {
+    "country_code": "FRA",
+    "code": "EUR",
+    "value": "€"
+  },
+  {
+    "country_code": "DEU",
+    "code": "EUR",
+    "value": "€"
+  },
+  {
+    "country_code": "GHA",
+    "code": "GHS",
+    "value": "₵"
+  },
+  {
+    "country_code": "HUN",
+    "code": "HUF",
+    "value": "ƒ"
+  },
+  {
+    "country_code": "IDN",
+    "code": "IDR",
+    "value": "₨"
+  },
+  {
+    "country_code": "IRQ",
+    "code": "IQD",
+    "value": ".د.ع"
+  },
+  {
+    "country_code": "ISR",
+    "code": "ILS",
+    "value": "₪"
+  },
+  {
+    "country_code": "JOR",
+    "code": "JOD",
+    "value": ".د.إ"
+  },
+  {
+    "country_code": "KEN",
+    "code": "KES",
+    "value": "KSh"
+  },
+  {
+    "country_code": "KWT",
+    "code": "KWD",
+    "value": ".د.ك"
+  },
+  {
+    "country_code": "LBN",
+    "code": "LBP",
+    "value": "£"
+  },
+  {
+    "country_code": "LTU",
+    "code": "EUR",
+    "value": "€"
+  },
+  {
+    "country_code": "LVA",
+    "code": "EUR",
+    "value": "€"
+  },
+  {
+    "country_code": "MAR",
+    "code": "MAD",
+    "value": ".د.م"
+  },
+  {
+    "country_code": "MEX",
+    "code": "MXN",
+    "value": "$"
+  },
+  {
+    "country_code": "MLT",
+    "code": "EUR",
+    "value": "€"
+  },
+  {
+    "country_code": "MYS",
+    "code": "MYR",
+    "value": "RM"
+  },
+  {
+    "country_code": "NGA",
+    "code": "NGN",
+    "code": "NGA"
+  },
+  {
+    "country_code": "NLD",
+    "code": "EUR",
+    "value": "€"
+  },
+  {
+    "country_code": "PAK",
+    "code": "PKR",
+    "value": "Rs"
+  },
+  {
+    "country_code": "PER",
+    "code": "PEN",
+    "value": "PEN"
+  },
+  {
+    "country_code": "PHL",
+    "code": "PHP",
+    "value": "₱"
+  },
+  {
+    "country_code": "POL",
+    "code": "EUR",
+    "value": "€"
+  },
+  {
+    "country_code": "PRT",
+    "code": "EUR",
+    "value": "€"
+  },
+  {
+    "country_code": "QAT",
+    "code": "QAR",
+    "value": ".ر.ق"
+  },
+  {
+    "country_code": "ROU",
+    "code": "RON",
+    "value": "L"
+  },
+  {
+    "country_code": "RUS",
+    "code": "RUB",
+    "value": "₽"
+  },
+  {
+    "country_code": "SAU",
+    "code": "SAR",
+    "value": ".ر.س"
+  },
+  {
+    "country_code": "SGP",
+    "code": "SGD",
+    "value": "S$"
+  },
+  {
+    "country_code": "SVK",
+    "code": "EUR",
+    "value": "€"
+  },
+  {
+    "country_code": "ZAF",
+    "code": "ZAR",
+    "value": "R"
+  },
+  {
+    "country_code": "ESP",
+    "code": "EUR",
+    "value": "€"
+  },
+  {
+    "country_code": "SWE",
+    "code": "EUR",
+    "value": "€"
+  },
+  {
+    "country_code": "THA",
+    "code": "THB",
+    "value": "฿"
+  },
+  {
+    "country_code": "TZA",
+    "code": "TZS",
+    "value": "TSh"
+  },
+  {
+    "country_code": "UGA",
+    "code": "UGX",
+    "value": "USh"
+  },
+  {
+    "country_code": "UKR",
+    "code": "UAH",
+    "value": "₴"
+  },
+  {
+    "country_code": "ARE",
+    "code": "AED",
+    "value": ".د.إ"
+  },
+  {
+    "country_code": "GBR",
+    "code": "GBP",
+    "value": "£"
+  },
+  {
+    "country_code": "USA",
+    "code": "USD",
+    "value": "$"
+  },
+  {
+    "country_code": "VNM",
+    "code": "VND",
+    "value": "₫"
+  }
+]

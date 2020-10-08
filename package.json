@@ -1,0 +1,45 @@
+{
+  "name": "teleport",
+  "version": "0.0.1",
+  "description": "A Quasar Framework app",
+  "productName": "Teleport",
+  "cordovaId": "org.cordova.quasar.app",
+  "capacitorId": "",
+  "author": "bonch.dev",
+  "private": true,
+  "scripts": {
+    "build": "quasar build -m pwa",
+    "start": "if [ \"$NODE_ENV\" = \"production\" ]; then npm run start:prod; else npm run start:dev; fi",
+    "start:dev": "quasar dev -m pwa",
+    "start:prod": "node server.js",
+    "lint": "eslint --ext .js,.vue src",
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "@quasar/app": "^1.0.0",
+    "@quasar/extras": "^1.0.0",
+    "@vue/eslint-config-standard": "^4.0.0",
+    "axios": "^0.18.1",
+    "babel-eslint": "^10.0.1",
+    "bonch.dev-quasar-gitlab-ci": "^0.2.0",
+    "eslint": "^5.10.0",
+    "eslint-loader": "^2.1.1",
+    "eslint-plugin-vue": "^5.0.0",
+    "google-maps-api-loader": "^1.1.1",
+    "moment": "^2.27.0",
+    "qs": "^6.9.1",
+    "quasar": "^1.0.0",
+    "vue-i18n": "^8.0.0",
+    "vue-moment": "^4.1.0",
+    "vue-scroll-picker": "^0.3.0",
+    "vue2-google-maps": "^0.10.7"
+  },
+  "engines": {
+    "node": ">= 8.9.0",
+    "npm": ">= 5.6.0",
+    "yarn": ">= 1.6.0"
+  },
+  "browserslist": [
+    "last 1 version, not dead, ie >= 11"
+  ]
+}
